@@ -1,1 +1,2 @@
 print("Strap gay")
+#lol
